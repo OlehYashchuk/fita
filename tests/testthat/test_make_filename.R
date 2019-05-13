@@ -1,5 +1,3 @@
-library(testthat)
-
 test_that('check filename is created properly', {
   filename_2013 <- make_filename(2013)
   
