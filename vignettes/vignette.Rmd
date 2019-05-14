@@ -1,0 +1,20 @@
+---
+title: "R Package that explores data from csv files"
+author: "Oleh Yashchuk"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+This package build in learning purpose.
+
+## List of functions:
+
+* fars_read()
+* make_filename()
+* fars_read_years()
+* fars_summarize_years()
+* fars_map_state()
