@@ -13,4 +13,4 @@ This package build in learning purpose.
 * Once package has built on Travis and the build is passing with no errors, warnings, or notes - add Travis badge to the README.md file of package repository.
 
 ## Package installation
-install.packages("fita")
+devtools::install_github("OlehYashchuk/fita")
